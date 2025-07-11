@@ -1,8 +1,5 @@
 # Image-Classification
 
-
-# Mango Leaf Disease Classification
-
 ## Deskripsi Proyek
 
 Proyek ini bertujuan untuk mengembangkan model klasifikasi gambar menggunakan **Convolutional Neural Network (CNN)** untuk mengenali **jenis-jenis penyakit pada daun mangga**. 
